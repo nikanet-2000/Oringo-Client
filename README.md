@@ -1,4 +1,4 @@
-# Hypixel Skyblock best QoL Client ✨
+# Hypixel Skyblock best QoL Client ✨ Oringo Client
 
 Oringo client is designed to enhance your Skyblock experience with quality-of-life features, automation tools, visual tweaks, and more. Dive into the various modules we offer to simplify your gameplay and add extra convenience! 
 
