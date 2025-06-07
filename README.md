@@ -10,7 +10,7 @@ Oringo client is designed to enhance your Skyblock experience with quality-of-li
 
 
 ## Features Overview 📋
-![](https://www.9minecraft.net/wp-content/uploads/2023/10/Oringo-Client-Screenshots-1.jpg)
+![](https://media.discordapp.net/attachments/1164619204662673482/1380861227265429514/68747470733a2f2f7777772e396d696e6563726166742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032332f31302f4f72696e676f2d436c69656e742d53637265656e73686f74732d312e6a7067.jpg?ex=68456abb&is=6844193b&hm=b6a6eba55a2e9eff1f071f6704c98e5547c1f3302033235b4f4f923e4bb8d570&=&format=webp)
 
 ### Skyblock 🛡️
 Enhance your Skyblock experience with automation tools, skill aids, and helpers.
